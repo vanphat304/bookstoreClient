@@ -1,0 +1,21 @@
+.modal-content {
+    width: 640px;
+  }
+  .modal-body form {
+    color: blue;
+  }
+  form label {
+    font-weight: 600;
+    text-transform: capitalize;
+  }
+  input,
+  select {
+    border-radius: 2px;
+    border: 1px solid blue;
+    width: 100%;
+    height: 40px;
+    outline: none;
+    color: blue;
+    font-size: 20px;
+  }
+  
